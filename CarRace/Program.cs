@@ -18,7 +18,7 @@ public partial class Program
         {
             id = 1,
             name = "Minicooper",
-            speed = 1200, //  in km/h
+            speed = 120, //  in km/h
             distanceDriven = 0, // in km
             distanceLeft = 10, //  in km
             time = 0 // in seconds
@@ -27,7 +27,7 @@ public partial class Program
         {
             id = 2,
             name = "Volvo",
-            speed = 1200, //  in km/h
+            speed = 120, //  in km/h
             distanceDriven = 0, // in km
             distanceLeft = 10, //  in km
             time = 0 // in seconds
@@ -36,7 +36,7 @@ public partial class Program
         {
             id = 3,
             name = "Suzuki Swift",
-            speed = 1200, //  in km/h
+            speed = 120, //  in km/h
             distanceDriven = 0, // in km
             distanceLeft = 10, //  in km
             time = 0 // in seconds
